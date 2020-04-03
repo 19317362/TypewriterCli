@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_TypewriterCli.1050994682.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Typewriter" t="IncludeRecursive">
+        <e p="CodeModel" t="Include">
+          <e p="Collections" t="Include">
+            <e p="AttributeArgumentCollectionImpl.cs" t="Include" />
+            <e p="AttributeCollectionImpl.cs" t="Include" />
+            <e p="ClassCollectionImpl.cs" t="Include" />
+            <e p="ConstantCollectionImpl.cs" t="Include" />
+            <e p="DelegateCollectionImpl.cs" t="Include" />
+            <e p="EnumCollectionImpl.cs" t="Include" />
+            <e p="EnumValueCollectionImpl.cs" t="Include" />
+            <e p="EventCollectionImpl.cs" t="Include" />
+            <e p="FieldCollectionImpl.cs" t="Include" />
+            <e p="InterfaceCollectionImpl.cs" t="Include" />
+            <e p="ItemCollectionImpl.cs" t="Include" />
+            <e p="MethodCollectionImpl.cs" t="Include" />
+            <e p="ParameterCollectionImpl.cs" t="Include" />
+            <e p="ParameterCommentCollectionImpl.cs" t="Include" />
+            <e p="PropertyCollectionImpl.cs" t="Include" />
+            <e p="TypeCollectionImpl.cs" t="Include" />
+            <e p="TypeParameterCollectionImpl.cs" t="Include" />
+          </e>
+          <e p="Configuration" t="Include">
+            <e p="ProjectHelpers.cs" t="Include" />
+            <e p="SettingsImpl.cs" t="Include" />
+          </e>
+          <e p="Helpers.cs" t="Include" />
+          <e p="Implementation" t="Include">
+            <e p="AttributeArgumentImpl.cs" t="Include" />
+            <e p="AttributeImpl.cs" t="Include" />
+            <e p="ClassImpl.cs" t="Include" />
+            <e p="ConstantImpl.cs" t="Include" />
+            <e p="DelegateImpl.cs" t="Include" />
+            <e p="DocComment.cs" t="Include" />
+            <e p="EnumImpl.cs" t="Include" />
+            <e p="EnumValueImpl.cs" t="Include" />
+            <e p="EventImpl.cs" t="Include" />
+            <e p="FieldImpl.cs" t="Include" />
+            <e p="FileImpl.cs" t="Include" />
+            <e p="InterfaceImpl.cs" t="Include" />
+            <e p="MethodImpl.cs" t="Include" />
+            <e p="ParameterImpl.cs" t="Include" />
+            <e p="PropertyImpl.cs" t="Include" />
+            <e p="TypeImpl.cs" t="Include" />
+            <e p="TypeParameterImpl.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Constants.cs" t="Include" />
+        <e p="Generation" t="Include">
+          <e p="Compiler.cs" t="Include" />
+          <e p="ItemFilter.cs" t="Include" />
+          <e p="Parser.cs" t="Include" />
+          <e p="Template.cs" t="Include" />
+          <e p="TemplateCodeParser.cs" t="Include" />
+        </e>
+        <e p="Lexing" t="Include">
+          <e p="BraceStack.cs" t="Include" />
+          <e p="CodeLexer.cs" t="Include" />
+          <e p="Context.cs" t="Include" />
+          <e p="ContextSpan.cs" t="Include" />
+          <e p="ContextSpans.cs" t="Include" />
+          <e p="Contexts.cs" t="Include" />
+          <e p="Identifier.cs" t="Include" />
+          <e p="Identifiers.cs" t="Include" />
+          <e p="Roslyn" t="Include">
+            <e p="ShadowClass.cs" t="Include" />
+            <e p="ShadowWorkspace.cs" t="Include" />
+            <e p="Snippet.cs" t="Include" />
+            <e p="XmlDocumentationProvider.cs" t="Include" />
+          </e>
+          <e p="SemanticModel.cs" t="Include" />
+          <e p="Stream.cs" t="Include" />
+          <e p="TemplateLexer.cs" t="Include" />
+          <e p="Token.cs" t="Include" />
+          <e p="Tokens.cs" t="Include" />
+        </e>
+        <e p="Typewriter.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Typewriter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Typewriter.CodeModel" t="IncludeRecursive">
+        <e p="Attributes$" t="Include">
+          <e p="ContextAttribute.cs" t="Include" />
+          <e p="PropertyAttribute.cs" t="Include" />
+        </e>
+        <e p="CodeModel$" t="Include">
+          <e p="Attribute.cs" t="Include" />
+          <e p="AttributeArgument.cs" t="Include" />
+          <e p="Class.cs" t="Include" />
+          <e p="Constant.cs" t="Include" />
+          <e p="Delegate.cs" t="Include" />
+          <e p="DocComment.cs" t="Include" />
+          <e p="Enum.cs" t="Include" />
+          <e p="EnumValue.cs" t="Include" />
+          <e p="Event.cs" t="Include" />
+          <e p="Field.cs" t="Include" />
+          <e p="File.cs" t="Include" />
+          <e p="IStringConvertable.cs" t="Include" />
+          <e p="Interface.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
+          <e p="ItemCollection.cs" t="Include" />
+          <e p="Method.cs" t="Include" />
+          <e p="Parameter.cs" t="Include" />
+          <e p="Property.cs" t="Include" />
+          <e p="Type.cs" t="Include" />
+          <e p="TypeParameter.cs" t="Include" />
+        </e>
+        <e p="Configuration" t="Include">
+          <e p="PartialRenderingMode.cs" t="Include" />
+          <e p="Settings.cs" t="Include" />
+        </e>
+        <e p="Extensions" t="Include">
+          <e p="Types" t="Include">
+            <e p="TypeExtensions.cs" t="Include" />
+          </e>
+          <e p="WebApi" t="Include">
+            <e p="HttpMethodExtensions.cs" t="Include" />
+            <e p="RequestDataExtensions.cs" t="Include" />
+            <e p="UrlExtensions.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Typewriter.CodeModel.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Typewriter.CodeModel.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Typewriter.Demo" t="IncludeRecursive">
+        <e p="Typewriter.Demo.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Typewriter.Metadata" t="IncludeRecursive">
+        <e p="Interfaces" t="Include">
+          <e p="IAttributeArgumentMetadata.cs" t="Include" />
+          <e p="IAttributeMetadata.cs" t="Include" />
+          <e p="IClassMetadata.cs" t="Include" />
+          <e p="IConstantMetadata.cs" t="Include" />
+          <e p="IDelegateMetadata.cs" t="Include" />
+          <e p="IEnumMetadata.cs" t="Include" />
+          <e p="IEnumValueMetadata.cs" t="Include" />
+          <e p="IEventMetadata.cs" t="Include" />
+          <e p="IFieldMetadata.cs" t="Include" />
+          <e p="IFileMetadata.cs" t="Include" />
+          <e p="IInterfaceMetadata.cs" t="Include" />
+          <e p="IMethodMetadata.cs" t="Include" />
+          <e p="INamedItem.cs" t="Include" />
+          <e p="IParameterMetadata.cs" t="Include" />
+          <e p="IPropertyMetadata.cs" t="Include" />
+          <e p="ITypeMetadata.cs" t="Include" />
+          <e p="ITypeParameterMetadata.cs" t="Include" />
+        </e>
+        <e p="Providers" t="Include">
+          <e p="IMetadataProvider.cs" t="Include" />
+        </e>
+        <e p="Typewriter.Metadata.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Typewriter.Metadata.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Typewriter.Metadata.Roslyn" t="IncludeRecursive">
+        <e p="Extensions.cs" t="Include" />
+        <e p="RoslynAttributeMetadata.cs" t="Include" />
+        <e p="RoslynAttrubuteParameterMetadata.cs" t="Include" />
+        <e p="RoslynClassMetadata.cs" t="Include" />
+        <e p="RoslynConstantMetadata.cs" t="Include" />
+        <e p="RoslynDelegateMetadata.cs" t="Include" />
+        <e p="RoslynEnumMetadata.cs" t="Include" />
+        <e p="RoslynEnumValueMetadata.cs" t="Include" />
+        <e p="RoslynEventMetadata.cs" t="Include" />
+        <e p="RoslynFieldMetadata.cs" t="Include" />
+        <e p="RoslynFileMetadata.cs" t="Include" />
+        <e p="RoslynInterfaceMetadata.cs" t="Include" />
+        <e p="RoslynMetadataProvider.cs" t="Include" />
+        <e p="RoslynMethodMetadata.cs" t="Include" />
+        <e p="RoslynParameterMetadata.cs" t="Include" />
+        <e p="RoslynPropertyMetadata.cs" t="Include" />
+        <e p="RoslynTypeMetadata.cs" t="Include" />
+        <e p="RoslynTypeParameterMetadata.cs" t="Include" />
+        <e p="Typewriter.Metadata.Roslyn.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Typewriter.Metadata.Roslyn.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="TypewriterCli" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="TypewriterCli.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="TypewriterCli.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="TypewriterCli.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
